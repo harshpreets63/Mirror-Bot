@@ -1,0 +1,17 @@
+config.env
+*auth_token.txt
+*.pyc
+downloads/*
+download/*
+data*
+.vscode
+.idea
+*.json
+*.pickle
+authorized_chats.txt
+log.txt
+accounts/*
+venv/
+.vim/
+drive_folder
+drive_folder
