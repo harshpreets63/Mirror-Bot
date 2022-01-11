@@ -1,6 +1,6 @@
 What's Different in this fork?!
 
-**just** the mirroring massage 👇
+Simpler Mirroring Massage 👇
 
 [![New Mirroring Massage](https://telegra.ph/file/eace7633a5fb6f94833db.jpg)](https://t.me/MMETMA)
 
