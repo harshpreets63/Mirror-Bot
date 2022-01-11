@@ -1,3 +1,14 @@
+What's Different in this fork?!
+
+**just** the mirroring massage 👇
+
+[![New Mirroring Massage](https://telegra.ph/file/eace7633a5fb6f94833db.jpg)](https://t.me/MMETMA)
+
+Original Mirroring Massage looked like this 👇
+
+[![Original Mirroring Massage](https://telegra.ph/file/66f215ab585a89cf9aa02.jpg)](https://github.com/harshpreets63/Mirror-Bot)
+
+
 [![HarshMirroRepo](https://telegra.ph/file/5d6de8adcfc1a7917c422.jpg)](https://t.me/HarshMirrorRepo)
 
 # Important - Read these points first
