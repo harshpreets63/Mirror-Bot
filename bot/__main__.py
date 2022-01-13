@@ -140,9 +140,12 @@ def bot_help(update, context):
 /{BotCommands.LogCommand} Get a log file of the bot. Handy for getting crash reports
 /{BotCommands.LeechSetCommand} Leech settings
 /{BotCommands.SetThumbCommand} Reply photo to set it as Thumbnail
-
 """
-    sendMessage(help_string, context.bot, update)
+    button = button_build.ButtonMaker()
+    button.buildbutton("Renaming Tips", "https://telegra.ph/Magneto-Python-Aria---Custom-Filename-Examples-01-20")
+    reply_markup = InlineKeyboardMarkup(button.build_menu(1))
+    sendMarkup(help_string, context.bot, update, reply_markup)
+""""""
 
 
 botcmds = [
